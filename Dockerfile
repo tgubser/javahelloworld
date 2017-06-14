@@ -1,5 +1,3 @@
-MAINTAINER Tanja Gubser <tanja.gubser@aspectra.ch>
-
 FROM java:7
 
 # environmet variables
